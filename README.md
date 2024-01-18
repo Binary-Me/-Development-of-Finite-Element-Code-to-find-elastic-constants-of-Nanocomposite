@@ -1,1 +1,2 @@
-# -Development-of-Finite-Element-Code-to-find-elastic-constants-of-Nanocomposite
+##    Development of Finite Element Code to find elastic constants of Nanocomposite
+Developed a finite element code for analysing a nanocomposite composed of polystyrene matrix and graphene nanoparticles. I used a 2-D analysis approach to determine Young's moduli Ex and Ey in the x and y-directions. The project involved modelling circular graphene particles arranged in both square and diamond arrays, conducting two variants of analysis to assess mechanical properties with precision.
